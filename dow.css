@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+       background:  url('3.jpg');
+}
+.parent{
+    text-align: center;
+    margin-top: 100px;
+   height: 50vh;
+}
+.h1{
+    font-size: 50px;
+    margin-bottom: 40px;
+    color: rgb(3, 3, 56);
+}
+#day{
+    font-size: 40px;
+    margin-bottom: 30px;
+    background-color: rgba(255, 255, 255, 0.486);
+    color: rgb(2, 44, 2);
+    
+}
+#gist{
+    font-size: 35px;
+    background:  rgba(255, 255, 255, 0.486);
+    color: rgb(54, 3, 3);
+    
+}
